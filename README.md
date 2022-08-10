@@ -10,4 +10,4 @@ There a few reasons I have for writing this document. In no particular order:
 - Historically, software for the team has been written by only one person and I want to change that
 - I want to make sure that I myself remember all the things I'm writing about
 
-TO BE CONTINUED
+Now you can hop over to the [wiki](https://github.com/ftc8380/coding-guide/wiki) tab because that's where the actual guide is.
